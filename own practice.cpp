@@ -1,3 +1,11 @@
+/* print the given pattern
+if n=5
+1
+AB
+123
+ABCD
+12345*/
+
 #include<iostream>
 using namespace std;
 int main(){
