@@ -1,3 +1,13 @@
+/* Question- print the given pattern
+             if n=5
+             *****
+             ****
+             ***
+             **
+             *     
+*/
+
+
 #include<iostream>
 using namespace std;
 int main(){
