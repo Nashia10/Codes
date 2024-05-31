@@ -1,2 +1,2 @@
 # Codes
-Uploading my daily learnings here
+Pattern printing
